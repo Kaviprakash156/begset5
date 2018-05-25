@@ -1,2 +1,2 @@
-n=int(input())
-print(len(str(n)))
+k=int(input())
+print(len(str(k)))
